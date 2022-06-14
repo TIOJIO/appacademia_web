@@ -1,0 +1,72 @@
+/*header***/
+
+.title{
+    color: rgb(17, 141, 65);
+    text-align: center;
+    margin: auto;
+    font-family: 'Times New Roman', Times, serif;
+
+ 
+}
+
+/* body**/
+.app{
+    color: rgba(233, 232, 232, 0.829);
+   width: auto;
+   height: 570px;
+   text-align: center;
+
+}
+
+.btn{
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+ 
+    
+}
+.button{
+    text-align: center;
+    margin-top: 200px;
+    width: 200px;
+    height: 50px;
+    border-radius: 10px;
+    color: white;
+    background-color: rgb(17, 141, 65);
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+}
+.button:hover{
+    border: 1px solid white;
+
+}
+
+/*  signup**/
+
+.signup{
+    width: 500px;
+    margin: auto;
+   
+}
+.content{
+    
+    height: auto;
+   display: flex;
+   flex-direction: column;
+}
+form{
+    padding: 0px 40px 0px 40px;
+}
+.inscrit{
+    background-Color:rgb(17, 141, 65);
+    color:white;
+    width:"110px";
+    float:"left";
+}
+.content2{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    line-height: 10px;
+}
+
